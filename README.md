@@ -1,26 +1,25 @@
-# Hi there, I'm Eduardo! 👋
+# Eduardo Nogueira
 
-I am a **Software Engineering Student** at IESB (Brasília, DF) transitioning into **Java Backend Development**. With a background in the **Marines (Fuzileiros Navais)** and retail management, I bring a high level of discipline, resilience, and problem-solving skills to the world of technology.
+Estudante de Engenharia de Software no IESB, em Brasília, com foco em desenvolvimento backend Java. Busco minha primeira oportunidade em desenvolvimento, como estagiário ou desenvolvedor júnior.
 
-### 🛠️ Tech Stack & Tools
-- **Language:** Java (17/21)
-- **Frameworks:** Spring Boot (Learning Journey)
-- **Database:** SQL (PostgreSQL), CSV Persistence
-- **OS/DevOps:** Linux (Mint/XFCE), Terminal-centric workflow, Git/GitHub
-- **Current Focus:** Object-Oriented Programming (OOP) and Clean Code
+Minha experiência anterior inclui atuação como fuzileiro naval e gerente de loja. Trago dessa trajetória responsabilidade, trabalho em equipe e experiência com rotinas de negócio.
 
-### 🚀 Featured Project: WiseCash
-I am currently developing [WiseCash](https://github.com/EduardoSNogueira/wise-cash), a personal finance CLI tool designed to manage transactions using Java and CSV data persistence. It reflects my commitment to building secure and efficient financial solutions.
+## Estudos e prática
 
-### 📈 Career Goals
-I am actively seeking my first opportunity as a **Junior Java Developer** in Brasília, where I can apply my technical knowledge and leadership experience to contribute to robust software solutions.
+- Java: lógica, classes, objetos, construtores e encapsulamento.
+- Exercícios e projetos com persistência CSV e testes JUnit.
+- SQL e modelagem de bancos de dados em trabalhos acadêmicos.
+- Git/GitHub para versionamento e Linux como ambiente de desenvolvimento.
+- Inglês C1.
 
----
+Estou retomando o curso de Java do Nélio Alves e consolidando os fundamentos por meio de exercícios e implementações próprias. Os próximos passos são coleções, tratamento de exceções, acesso a banco de dados e APIs com Spring Boot.
 
-### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardosnogueira/)
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:edu.esn@hotmail.com)
+## Repositórios
 
----
+- [Java Backend Journey](https://github.com/EduardoSNogueira/java-backend-journey): exercícios de fundamentos e orientação a objetos.
+- [WiseCash](https://github.com/EduardoSNogueira/java-backend-journey/tree/main/02-java-oop/05-financial-control): projeto de estudo de controle financeiro no terminal, atualmente pausado.
+- [Projetos da faculdade](https://github.com/EduardoSNogueira/college-projects): trabalhos acadêmicos.
 
-*"Discipline equals freedom."*
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/eduardosnogueira/) · [E-mail](mailto:edu.esn@hotmail.com)
